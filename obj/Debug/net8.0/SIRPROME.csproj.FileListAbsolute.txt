@@ -1,0 +1,336 @@
+C:\Users\cebr4\Downloads\PrototipoCar\PrototipoCar\SIRPROME\SIRPROME\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\cebr4\Downloads\PrototipoCar\PrototipoCar\SIRPROME\SIRPROME\bin\Debug\net8.0\appsettings.json
+C:\Users\cebr4\Downloads\PrototipoCar\PrototipoCar\SIRPROME\SIRPROME\bin\Debug\net8.0\SIRPROME.exe
+C:\Users\cebr4\Downloads\PrototipoCar\PrototipoCar\SIRPROME\SIRPROME\bin\Debug\net8.0\SIRPROME.deps.json
+C:\Users\cebr4\Downloads\PrototipoCar\PrototipoCar\SIRPROME\SIRPROME\bin\Debug\net8.0\SIRPROME.runtimeconfig.json
+C:\Users\cebr4\Downloads\PrototipoCar\PrototipoCar\SIRPROME\SIRPROME\bin\Debug\net8.0\SIRPROME.dll
+C:\Users\cebr4\Downloads\PrototipoCar\PrototipoCar\SIRPROME\SIRPROME\bin\Debug\net8.0\SIRPROME.pdb
+C:\Users\cebr4\Downloads\PrototipoCar\PrototipoCar\SIRPROME\SIRPROME\bin\Debug\net8.0\DnsClient.dll
+C:\Users\cebr4\Downloads\PrototipoCar\PrototipoCar\SIRPROME\SIRPROME\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\cebr4\Downloads\PrototipoCar\PrototipoCar\SIRPROME\SIRPROME\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\cebr4\Downloads\PrototipoCar\PrototipoCar\SIRPROME\SIRPROME\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\cebr4\Downloads\PrototipoCar\PrototipoCar\SIRPROME\SIRPROME\bin\Debug\net8.0\Snappier.dll
+C:\Users\cebr4\Downloads\PrototipoCar\PrototipoCar\SIRPROME\SIRPROME\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\cebr4\Downloads\PrototipoCar\PrototipoCar\SIRPROME\SIRPROME\obj\Debug\net8.0\SIRPROME.csproj.AssemblyReference.cache
+C:\Users\cebr4\Downloads\PrototipoCar\PrototipoCar\SIRPROME\SIRPROME\obj\Debug\net8.0\SIRPROME.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cebr4\Downloads\PrototipoCar\PrototipoCar\SIRPROME\SIRPROME\obj\Debug\net8.0\SIRPROME.AssemblyInfoInputs.cache
+C:\Users\cebr4\Downloads\PrototipoCar\PrototipoCar\SIRPROME\SIRPROME\obj\Debug\net8.0\SIRPROME.AssemblyInfo.cs
+C:\Users\cebr4\Downloads\PrototipoCar\PrototipoCar\SIRPROME\SIRPROME\obj\Debug\net8.0\SIRPROME.csproj.CoreCompileInputs.cache
+C:\Users\cebr4\Downloads\PrototipoCar\PrototipoCar\SIRPROME\SIRPROME\obj\Debug\net8.0\SIRPROME.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cebr4\Downloads\PrototipoCar\PrototipoCar\SIRPROME\SIRPROME\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\cebr4\Downloads\PrototipoCar\PrototipoCar\SIRPROME\SIRPROME\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\cebr4\Downloads\PrototipoCar\PrototipoCar\SIRPROME\SIRPROME\obj\Debug\net8.0\staticwebassets\msbuild.SIRPROME.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\cebr4\Downloads\PrototipoCar\PrototipoCar\SIRPROME\SIRPROME\obj\Debug\net8.0\staticwebassets\msbuild.build.SIRPROME.props
+C:\Users\cebr4\Downloads\PrototipoCar\PrototipoCar\SIRPROME\SIRPROME\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SIRPROME.props
+C:\Users\cebr4\Downloads\PrototipoCar\PrototipoCar\SIRPROME\SIRPROME\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SIRPROME.props
+C:\Users\cebr4\Downloads\PrototipoCar\PrototipoCar\SIRPROME\SIRPROME\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\cebr4\Downloads\PrototipoCar\PrototipoCar\SIRPROME\SIRPROME\obj\Debug\net8.0\scopedcss\bundle\SIRPROME.styles.css
+C:\Users\cebr4\Downloads\PrototipoCar\PrototipoCar\SIRPROME\SIRPROME\obj\Debug\net8.0\SIRPROME.csproj.Up2Date
+C:\Users\cebr4\Downloads\PrototipoCar\PrototipoCar\SIRPROME\SIRPROME\obj\Debug\net8.0\SIRPROME.dll
+C:\Users\cebr4\Downloads\PrototipoCar\PrototipoCar\SIRPROME\SIRPROME\obj\Debug\net8.0\refint\SIRPROME.dll
+C:\Users\cebr4\Downloads\PrototipoCar\PrototipoCar\SIRPROME\SIRPROME\obj\Debug\net8.0\SIRPROME.pdb
+C:\Users\cebr4\Downloads\PrototipoCar\PrototipoCar\SIRPROME\SIRPROME\obj\Debug\net8.0\SIRPROME.genruntimeconfig.cache
+C:\Users\cebr4\Downloads\PrototipoCar\PrototipoCar\SIRPROME\SIRPROME\obj\Debug\net8.0\ref\SIRPROME.dll
+C:\Users\cebr4\Downloads\SIRPROME\SIRPROME_BackEnd\SIRPROME\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\cebr4\Downloads\SIRPROME\SIRPROME_BackEnd\SIRPROME\bin\Debug\net8.0\appsettings.json
+C:\Users\cebr4\Downloads\SIRPROME\SIRPROME_BackEnd\SIRPROME\bin\Debug\net8.0\SIRPROME.exe
+C:\Users\cebr4\Downloads\SIRPROME\SIRPROME_BackEnd\SIRPROME\bin\Debug\net8.0\SIRPROME.deps.json
+C:\Users\cebr4\Downloads\SIRPROME\SIRPROME_BackEnd\SIRPROME\bin\Debug\net8.0\SIRPROME.runtimeconfig.json
+C:\Users\cebr4\Downloads\SIRPROME\SIRPROME_BackEnd\SIRPROME\bin\Debug\net8.0\SIRPROME.dll
+C:\Users\cebr4\Downloads\SIRPROME\SIRPROME_BackEnd\SIRPROME\bin\Debug\net8.0\SIRPROME.pdb
+C:\Users\cebr4\Downloads\SIRPROME\SIRPROME_BackEnd\SIRPROME\bin\Debug\net8.0\DnsClient.dll
+C:\Users\cebr4\Downloads\SIRPROME\SIRPROME_BackEnd\SIRPROME\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\cebr4\Downloads\SIRPROME\SIRPROME_BackEnd\SIRPROME\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\cebr4\Downloads\SIRPROME\SIRPROME_BackEnd\SIRPROME\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\cebr4\Downloads\SIRPROME\SIRPROME_BackEnd\SIRPROME\bin\Debug\net8.0\Snappier.dll
+C:\Users\cebr4\Downloads\SIRPROME\SIRPROME_BackEnd\SIRPROME\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\cebr4\Downloads\SIRPROME\SIRPROME_BackEnd\SIRPROME\obj\Debug\net8.0\SIRPROME.csproj.AssemblyReference.cache
+C:\Users\cebr4\Downloads\SIRPROME\SIRPROME_BackEnd\SIRPROME\obj\Debug\net8.0\SIRPROME.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cebr4\Downloads\SIRPROME\SIRPROME_BackEnd\SIRPROME\obj\Debug\net8.0\SIRPROME.AssemblyInfoInputs.cache
+C:\Users\cebr4\Downloads\SIRPROME\SIRPROME_BackEnd\SIRPROME\obj\Debug\net8.0\SIRPROME.AssemblyInfo.cs
+C:\Users\cebr4\Downloads\SIRPROME\SIRPROME_BackEnd\SIRPROME\obj\Debug\net8.0\SIRPROME.csproj.CoreCompileInputs.cache
+C:\Users\cebr4\Downloads\SIRPROME\SIRPROME_BackEnd\SIRPROME\obj\Debug\net8.0\SIRPROME.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cebr4\Downloads\SIRPROME\SIRPROME_BackEnd\SIRPROME\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\cebr4\Downloads\SIRPROME\SIRPROME_BackEnd\SIRPROME\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\cebr4\Downloads\SIRPROME\SIRPROME_BackEnd\SIRPROME\obj\Debug\net8.0\staticwebassets\msbuild.SIRPROME.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\cebr4\Downloads\SIRPROME\SIRPROME_BackEnd\SIRPROME\obj\Debug\net8.0\staticwebassets\msbuild.build.SIRPROME.props
+C:\Users\cebr4\Downloads\SIRPROME\SIRPROME_BackEnd\SIRPROME\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SIRPROME.props
+C:\Users\cebr4\Downloads\SIRPROME\SIRPROME_BackEnd\SIRPROME\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SIRPROME.props
+C:\Users\cebr4\Downloads\SIRPROME\SIRPROME_BackEnd\SIRPROME\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\cebr4\Downloads\SIRPROME\SIRPROME_BackEnd\SIRPROME\obj\Debug\net8.0\scopedcss\bundle\SIRPROME.styles.css
+C:\Users\cebr4\Downloads\SIRPROME\SIRPROME_BackEnd\SIRPROME\obj\Debug\net8.0\SIRPROME.csproj.Up2Date
+C:\Users\cebr4\Downloads\SIRPROME\SIRPROME_BackEnd\SIRPROME\obj\Debug\net8.0\SIRPROME.dll
+C:\Users\cebr4\Downloads\SIRPROME\SIRPROME_BackEnd\SIRPROME\obj\Debug\net8.0\refint\SIRPROME.dll
+C:\Users\cebr4\Downloads\SIRPROME\SIRPROME_BackEnd\SIRPROME\obj\Debug\net8.0\SIRPROME.pdb
+C:\Users\cebr4\Downloads\SIRPROME\SIRPROME_BackEnd\SIRPROME\obj\Debug\net8.0\SIRPROME.genruntimeconfig.cache
+C:\Users\cebr4\Downloads\SIRPROME\SIRPROME_BackEnd\SIRPROME\obj\Debug\net8.0\ref\SIRPROME.dll
+C:\Users\cebr4\Downloads\SIRPROME\SIRPROME_BackEnd\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\cebr4\Downloads\SIRPROME\SIRPROME_BackEnd\bin\Debug\net8.0\appsettings.json
+C:\Users\cebr4\Downloads\SIRPROME\SIRPROME_BackEnd\bin\Debug\net8.0\SIRPROME.exe
+C:\Users\cebr4\Downloads\SIRPROME\SIRPROME_BackEnd\bin\Debug\net8.0\SIRPROME.deps.json
+C:\Users\cebr4\Downloads\SIRPROME\SIRPROME_BackEnd\bin\Debug\net8.0\SIRPROME.runtimeconfig.json
+C:\Users\cebr4\Downloads\SIRPROME\SIRPROME_BackEnd\bin\Debug\net8.0\SIRPROME.dll
+C:\Users\cebr4\Downloads\SIRPROME\SIRPROME_BackEnd\bin\Debug\net8.0\SIRPROME.pdb
+C:\Users\cebr4\Downloads\SIRPROME\SIRPROME_BackEnd\bin\Debug\net8.0\DnsClient.dll
+C:\Users\cebr4\Downloads\SIRPROME\SIRPROME_BackEnd\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\cebr4\Downloads\SIRPROME\SIRPROME_BackEnd\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\cebr4\Downloads\SIRPROME\SIRPROME_BackEnd\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\cebr4\Downloads\SIRPROME\SIRPROME_BackEnd\bin\Debug\net8.0\Snappier.dll
+C:\Users\cebr4\Downloads\SIRPROME\SIRPROME_BackEnd\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\cebr4\Downloads\SIRPROME\SIRPROME_BackEnd\obj\Debug\net8.0\SIRPROME.csproj.AssemblyReference.cache
+C:\Users\cebr4\Downloads\SIRPROME\SIRPROME_BackEnd\obj\Debug\net8.0\SIRPROME.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cebr4\Downloads\SIRPROME\SIRPROME_BackEnd\obj\Debug\net8.0\SIRPROME.AssemblyInfoInputs.cache
+C:\Users\cebr4\Downloads\SIRPROME\SIRPROME_BackEnd\obj\Debug\net8.0\SIRPROME.AssemblyInfo.cs
+C:\Users\cebr4\Downloads\SIRPROME\SIRPROME_BackEnd\obj\Debug\net8.0\SIRPROME.csproj.CoreCompileInputs.cache
+C:\Users\cebr4\Downloads\SIRPROME\SIRPROME_BackEnd\obj\Debug\net8.0\SIRPROME.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cebr4\Downloads\SIRPROME\SIRPROME_BackEnd\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\cebr4\Downloads\SIRPROME\SIRPROME_BackEnd\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\cebr4\Downloads\SIRPROME\SIRPROME_BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.SIRPROME.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\cebr4\Downloads\SIRPROME\SIRPROME_BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.build.SIRPROME.props
+C:\Users\cebr4\Downloads\SIRPROME\SIRPROME_BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SIRPROME.props
+C:\Users\cebr4\Downloads\SIRPROME\SIRPROME_BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SIRPROME.props
+C:\Users\cebr4\Downloads\SIRPROME\SIRPROME_BackEnd\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\cebr4\Downloads\SIRPROME\SIRPROME_BackEnd\obj\Debug\net8.0\scopedcss\bundle\SIRPROME.styles.css
+C:\Users\cebr4\Downloads\SIRPROME\SIRPROME_BackEnd\obj\Debug\net8.0\SIRPROME.csproj.Up2Date
+C:\Users\cebr4\Downloads\SIRPROME\SIRPROME_BackEnd\obj\Debug\net8.0\SIRPROME.dll
+C:\Users\cebr4\Downloads\SIRPROME\SIRPROME_BackEnd\obj\Debug\net8.0\refint\SIRPROME.dll
+C:\Users\cebr4\Downloads\SIRPROME\SIRPROME_BackEnd\obj\Debug\net8.0\SIRPROME.pdb
+C:\Users\cebr4\Downloads\SIRPROME\SIRPROME_BackEnd\obj\Debug\net8.0\SIRPROME.genruntimeconfig.cache
+C:\Users\cebr4\Downloads\SIRPROME\SIRPROME_BackEnd\obj\Debug\net8.0\ref\SIRPROME.dll
+C:\Users\lenov\Desktop\SIRPROME_BackEnd\SIRPROME_BackEnd\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\lenov\Desktop\SIRPROME_BackEnd\SIRPROME_BackEnd\bin\Debug\net8.0\appsettings.json
+C:\Users\lenov\Desktop\SIRPROME_BackEnd\SIRPROME_BackEnd\bin\Debug\net8.0\SIRPROME.staticwebassets.endpoints.json
+C:\Users\lenov\Desktop\SIRPROME_BackEnd\SIRPROME_BackEnd\bin\Debug\net8.0\SIRPROME.exe
+C:\Users\lenov\Desktop\SIRPROME_BackEnd\SIRPROME_BackEnd\bin\Debug\net8.0\SIRPROME.deps.json
+C:\Users\lenov\Desktop\SIRPROME_BackEnd\SIRPROME_BackEnd\bin\Debug\net8.0\SIRPROME.runtimeconfig.json
+C:\Users\lenov\Desktop\SIRPROME_BackEnd\SIRPROME_BackEnd\bin\Debug\net8.0\SIRPROME.dll
+C:\Users\lenov\Desktop\SIRPROME_BackEnd\SIRPROME_BackEnd\bin\Debug\net8.0\SIRPROME.pdb
+C:\Users\lenov\Desktop\SIRPROME_BackEnd\SIRPROME_BackEnd\bin\Debug\net8.0\DnsClient.dll
+C:\Users\lenov\Desktop\SIRPROME_BackEnd\SIRPROME_BackEnd\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\lenov\Desktop\SIRPROME_BackEnd\SIRPROME_BackEnd\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\lenov\Desktop\SIRPROME_BackEnd\SIRPROME_BackEnd\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\lenov\Desktop\SIRPROME_BackEnd\SIRPROME_BackEnd\bin\Debug\net8.0\Snappier.dll
+C:\Users\lenov\Desktop\SIRPROME_BackEnd\SIRPROME_BackEnd\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\lenov\Desktop\SIRPROME_BackEnd\SIRPROME_BackEnd\obj\Debug\net8.0\SIRPROME.csproj.AssemblyReference.cache
+C:\Users\lenov\Desktop\SIRPROME_BackEnd\SIRPROME_BackEnd\obj\Debug\net8.0\SIRPROME.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenov\Desktop\SIRPROME_BackEnd\SIRPROME_BackEnd\obj\Debug\net8.0\SIRPROME.AssemblyInfoInputs.cache
+C:\Users\lenov\Desktop\SIRPROME_BackEnd\SIRPROME_BackEnd\obj\Debug\net8.0\SIRPROME.AssemblyInfo.cs
+C:\Users\lenov\Desktop\SIRPROME_BackEnd\SIRPROME_BackEnd\obj\Debug\net8.0\SIRPROME.csproj.CoreCompileInputs.cache
+C:\Users\lenov\Desktop\SIRPROME_BackEnd\SIRPROME_BackEnd\obj\Debug\net8.0\SIRPROME.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lenov\Desktop\SIRPROME_BackEnd\SIRPROME_BackEnd\obj\Debug\net8.0\scopedcss\bundle\SIRPROME.styles.css
+C:\Users\lenov\Desktop\SIRPROME_BackEnd\SIRPROME_BackEnd\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\lenov\Desktop\SIRPROME_BackEnd\SIRPROME_BackEnd\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\lenov\Desktop\SIRPROME_BackEnd\SIRPROME_BackEnd\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\lenov\Desktop\SIRPROME_BackEnd\SIRPROME_BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.SIRPROME.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lenov\Desktop\SIRPROME_BackEnd\SIRPROME_BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.SIRPROME.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\lenov\Desktop\SIRPROME_BackEnd\SIRPROME_BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.build.SIRPROME.props
+C:\Users\lenov\Desktop\SIRPROME_BackEnd\SIRPROME_BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SIRPROME.props
+C:\Users\lenov\Desktop\SIRPROME_BackEnd\SIRPROME_BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SIRPROME.props
+C:\Users\lenov\Desktop\SIRPROME_BackEnd\SIRPROME_BackEnd\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\lenov\Desktop\SIRPROME_BackEnd\SIRPROME_BackEnd\obj\Debug\net8.0\SIRPROME.csproj.Up2Date
+C:\Users\lenov\Desktop\SIRPROME_BackEnd\SIRPROME_BackEnd\obj\Debug\net8.0\SIRPROME.dll
+C:\Users\lenov\Desktop\SIRPROME_BackEnd\SIRPROME_BackEnd\obj\Debug\net8.0\refint\SIRPROME.dll
+C:\Users\lenov\Desktop\SIRPROME_BackEnd\SIRPROME_BackEnd\obj\Debug\net8.0\SIRPROME.pdb
+C:\Users\lenov\Desktop\SIRPROME_BackEnd\SIRPROME_BackEnd\obj\Debug\net8.0\SIRPROME.genruntimeconfig.cache
+C:\Users\lenov\Desktop\SIRPROME_BackEnd\SIRPROME_BackEnd\obj\Debug\net8.0\ref\SIRPROME.dll
+C:\Users\IkerG\OneDrive\Documentos\Prototipo1111\Prototipo\SIRPROME_BackEnd\SIRPROME_BackEnd\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\IkerG\OneDrive\Documentos\Prototipo1111\Prototipo\SIRPROME_BackEnd\SIRPROME_BackEnd\bin\Debug\net8.0\appsettings.json
+C:\Users\IkerG\OneDrive\Documentos\Prototipo1111\Prototipo\SIRPROME_BackEnd\SIRPROME_BackEnd\bin\Debug\net8.0\SIRPROME.exe
+C:\Users\IkerG\OneDrive\Documentos\Prototipo1111\Prototipo\SIRPROME_BackEnd\SIRPROME_BackEnd\bin\Debug\net8.0\SIRPROME.deps.json
+C:\Users\IkerG\OneDrive\Documentos\Prototipo1111\Prototipo\SIRPROME_BackEnd\SIRPROME_BackEnd\bin\Debug\net8.0\SIRPROME.runtimeconfig.json
+C:\Users\IkerG\OneDrive\Documentos\Prototipo1111\Prototipo\SIRPROME_BackEnd\SIRPROME_BackEnd\bin\Debug\net8.0\SIRPROME.dll
+C:\Users\IkerG\OneDrive\Documentos\Prototipo1111\Prototipo\SIRPROME_BackEnd\SIRPROME_BackEnd\bin\Debug\net8.0\SIRPROME.pdb
+C:\Users\IkerG\OneDrive\Documentos\Prototipo1111\Prototipo\SIRPROME_BackEnd\SIRPROME_BackEnd\bin\Debug\net8.0\DnsClient.dll
+C:\Users\IkerG\OneDrive\Documentos\Prototipo1111\Prototipo\SIRPROME_BackEnd\SIRPROME_BackEnd\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\IkerG\OneDrive\Documentos\Prototipo1111\Prototipo\SIRPROME_BackEnd\SIRPROME_BackEnd\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\IkerG\OneDrive\Documentos\Prototipo1111\Prototipo\SIRPROME_BackEnd\SIRPROME_BackEnd\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\IkerG\OneDrive\Documentos\Prototipo1111\Prototipo\SIRPROME_BackEnd\SIRPROME_BackEnd\bin\Debug\net8.0\Snappier.dll
+C:\Users\IkerG\OneDrive\Documentos\Prototipo1111\Prototipo\SIRPROME_BackEnd\SIRPROME_BackEnd\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\IkerG\OneDrive\Documentos\Prototipo1111\Prototipo\SIRPROME_BackEnd\SIRPROME_BackEnd\obj\Debug\net8.0\SIRPROME.csproj.AssemblyReference.cache
+C:\Users\IkerG\OneDrive\Documentos\Prototipo1111\Prototipo\SIRPROME_BackEnd\SIRPROME_BackEnd\obj\Debug\net8.0\SIRPROME.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IkerG\OneDrive\Documentos\Prototipo1111\Prototipo\SIRPROME_BackEnd\SIRPROME_BackEnd\obj\Debug\net8.0\SIRPROME.AssemblyInfoInputs.cache
+C:\Users\IkerG\OneDrive\Documentos\Prototipo1111\Prototipo\SIRPROME_BackEnd\SIRPROME_BackEnd\obj\Debug\net8.0\SIRPROME.AssemblyInfo.cs
+C:\Users\IkerG\OneDrive\Documentos\Prototipo1111\Prototipo\SIRPROME_BackEnd\SIRPROME_BackEnd\obj\Debug\net8.0\SIRPROME.csproj.CoreCompileInputs.cache
+C:\Users\IkerG\OneDrive\Documentos\Prototipo1111\Prototipo\SIRPROME_BackEnd\SIRPROME_BackEnd\obj\Debug\net8.0\SIRPROME.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\IkerG\OneDrive\Documentos\Prototipo1111\Prototipo\SIRPROME_BackEnd\SIRPROME_BackEnd\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\IkerG\OneDrive\Documentos\Prototipo1111\Prototipo\SIRPROME_BackEnd\SIRPROME_BackEnd\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\IkerG\OneDrive\Documentos\Prototipo1111\Prototipo\SIRPROME_BackEnd\SIRPROME_BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.SIRPROME.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\IkerG\OneDrive\Documentos\Prototipo1111\Prototipo\SIRPROME_BackEnd\SIRPROME_BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.build.SIRPROME.props
+C:\Users\IkerG\OneDrive\Documentos\Prototipo1111\Prototipo\SIRPROME_BackEnd\SIRPROME_BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SIRPROME.props
+C:\Users\IkerG\OneDrive\Documentos\Prototipo1111\Prototipo\SIRPROME_BackEnd\SIRPROME_BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SIRPROME.props
+C:\Users\IkerG\OneDrive\Documentos\Prototipo1111\Prototipo\SIRPROME_BackEnd\SIRPROME_BackEnd\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\IkerG\OneDrive\Documentos\Prototipo1111\Prototipo\SIRPROME_BackEnd\SIRPROME_BackEnd\obj\Debug\net8.0\scopedcss\bundle\SIRPROME.styles.css
+C:\Users\IkerG\OneDrive\Documentos\Prototipo1111\Prototipo\SIRPROME_BackEnd\SIRPROME_BackEnd\obj\Debug\net8.0\SIRPROME.csproj.Up2Date
+C:\Users\IkerG\OneDrive\Documentos\Prototipo1111\Prototipo\SIRPROME_BackEnd\SIRPROME_BackEnd\obj\Debug\net8.0\SIRPROME.dll
+C:\Users\IkerG\OneDrive\Documentos\Prototipo1111\Prototipo\SIRPROME_BackEnd\SIRPROME_BackEnd\obj\Debug\net8.0\refint\SIRPROME.dll
+C:\Users\IkerG\OneDrive\Documentos\Prototipo1111\Prototipo\SIRPROME_BackEnd\SIRPROME_BackEnd\obj\Debug\net8.0\SIRPROME.pdb
+C:\Users\IkerG\OneDrive\Documentos\Prototipo1111\Prototipo\SIRPROME_BackEnd\SIRPROME_BackEnd\obj\Debug\net8.0\SIRPROME.genruntimeconfig.cache
+C:\Users\IkerG\OneDrive\Documentos\Prototipo1111\Prototipo\SIRPROME_BackEnd\SIRPROME_BackEnd\obj\Debug\net8.0\ref\SIRPROME.dll
+C:\Users\IkerG\OneDrive\Documentos\Prototipo1111\Prototipo\SIRPROME_BackEnd\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\IkerG\OneDrive\Documentos\Prototipo1111\Prototipo\SIRPROME_BackEnd\bin\Debug\net8.0\appsettings.json
+C:\Users\IkerG\OneDrive\Documentos\Prototipo1111\Prototipo\SIRPROME_BackEnd\bin\Debug\net8.0\SIRPROME.exe
+C:\Users\IkerG\OneDrive\Documentos\Prototipo1111\Prototipo\SIRPROME_BackEnd\bin\Debug\net8.0\SIRPROME.deps.json
+C:\Users\IkerG\OneDrive\Documentos\Prototipo1111\Prototipo\SIRPROME_BackEnd\bin\Debug\net8.0\SIRPROME.runtimeconfig.json
+C:\Users\IkerG\OneDrive\Documentos\Prototipo1111\Prototipo\SIRPROME_BackEnd\bin\Debug\net8.0\SIRPROME.dll
+C:\Users\IkerG\OneDrive\Documentos\Prototipo1111\Prototipo\SIRPROME_BackEnd\bin\Debug\net8.0\SIRPROME.pdb
+C:\Users\IkerG\OneDrive\Documentos\Prototipo1111\Prototipo\SIRPROME_BackEnd\bin\Debug\net8.0\DnsClient.dll
+C:\Users\IkerG\OneDrive\Documentos\Prototipo1111\Prototipo\SIRPROME_BackEnd\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\IkerG\OneDrive\Documentos\Prototipo1111\Prototipo\SIRPROME_BackEnd\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\IkerG\OneDrive\Documentos\Prototipo1111\Prototipo\SIRPROME_BackEnd\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\IkerG\OneDrive\Documentos\Prototipo1111\Prototipo\SIRPROME_BackEnd\bin\Debug\net8.0\Snappier.dll
+C:\Users\IkerG\OneDrive\Documentos\Prototipo1111\Prototipo\SIRPROME_BackEnd\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\IkerG\OneDrive\Documentos\Prototipo1111\Prototipo\SIRPROME_BackEnd\obj\Debug\net8.0\SIRPROME.csproj.AssemblyReference.cache
+C:\Users\IkerG\OneDrive\Documentos\Prototipo1111\Prototipo\SIRPROME_BackEnd\obj\Debug\net8.0\SIRPROME.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IkerG\OneDrive\Documentos\Prototipo1111\Prototipo\SIRPROME_BackEnd\obj\Debug\net8.0\SIRPROME.AssemblyInfoInputs.cache
+C:\Users\IkerG\OneDrive\Documentos\Prototipo1111\Prototipo\SIRPROME_BackEnd\obj\Debug\net8.0\SIRPROME.AssemblyInfo.cs
+C:\Users\IkerG\OneDrive\Documentos\Prototipo1111\Prototipo\SIRPROME_BackEnd\obj\Debug\net8.0\SIRPROME.csproj.CoreCompileInputs.cache
+C:\Users\IkerG\OneDrive\Documentos\Prototipo1111\Prototipo\SIRPROME_BackEnd\obj\Debug\net8.0\SIRPROME.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\IkerG\OneDrive\Documentos\Prototipo1111\Prototipo\SIRPROME_BackEnd\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\IkerG\OneDrive\Documentos\Prototipo1111\Prototipo\SIRPROME_BackEnd\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\IkerG\OneDrive\Documentos\Prototipo1111\Prototipo\SIRPROME_BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.SIRPROME.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\IkerG\OneDrive\Documentos\Prototipo1111\Prototipo\SIRPROME_BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.build.SIRPROME.props
+C:\Users\IkerG\OneDrive\Documentos\Prototipo1111\Prototipo\SIRPROME_BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SIRPROME.props
+C:\Users\IkerG\OneDrive\Documentos\Prototipo1111\Prototipo\SIRPROME_BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SIRPROME.props
+C:\Users\IkerG\OneDrive\Documentos\Prototipo1111\Prototipo\SIRPROME_BackEnd\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\IkerG\OneDrive\Documentos\Prototipo1111\Prototipo\SIRPROME_BackEnd\obj\Debug\net8.0\scopedcss\bundle\SIRPROME.styles.css
+C:\Users\IkerG\OneDrive\Documentos\Prototipo1111\Prototipo\SIRPROME_BackEnd\obj\Debug\net8.0\SIRPROME.csproj.Up2Date
+C:\Users\IkerG\OneDrive\Documentos\Prototipo1111\Prototipo\SIRPROME_BackEnd\obj\Debug\net8.0\SIRPROME.dll
+C:\Users\IkerG\OneDrive\Documentos\Prototipo1111\Prototipo\SIRPROME_BackEnd\obj\Debug\net8.0\refint\SIRPROME.dll
+C:\Users\IkerG\OneDrive\Documentos\Prototipo1111\Prototipo\SIRPROME_BackEnd\obj\Debug\net8.0\SIRPROME.pdb
+C:\Users\IkerG\OneDrive\Documentos\Prototipo1111\Prototipo\SIRPROME_BackEnd\obj\Debug\net8.0\SIRPROME.genruntimeconfig.cache
+C:\Users\IkerG\OneDrive\Documentos\Prototipo1111\Prototipo\SIRPROME_BackEnd\obj\Debug\net8.0\ref\SIRPROME.dll
+C:\Users\IkerG\OneDrive\Documentos\BackAndFront\Prototipo\SIRPROME_BackEnd\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\IkerG\OneDrive\Documentos\BackAndFront\Prototipo\SIRPROME_BackEnd\bin\Debug\net8.0\appsettings.json
+C:\Users\IkerG\OneDrive\Documentos\BackAndFront\Prototipo\SIRPROME_BackEnd\bin\Debug\net8.0\SIRPROME.exe
+C:\Users\IkerG\OneDrive\Documentos\BackAndFront\Prototipo\SIRPROME_BackEnd\bin\Debug\net8.0\SIRPROME.deps.json
+C:\Users\IkerG\OneDrive\Documentos\BackAndFront\Prototipo\SIRPROME_BackEnd\bin\Debug\net8.0\SIRPROME.runtimeconfig.json
+C:\Users\IkerG\OneDrive\Documentos\BackAndFront\Prototipo\SIRPROME_BackEnd\bin\Debug\net8.0\SIRPROME.dll
+C:\Users\IkerG\OneDrive\Documentos\BackAndFront\Prototipo\SIRPROME_BackEnd\bin\Debug\net8.0\SIRPROME.pdb
+C:\Users\IkerG\OneDrive\Documentos\BackAndFront\Prototipo\SIRPROME_BackEnd\bin\Debug\net8.0\DnsClient.dll
+C:\Users\IkerG\OneDrive\Documentos\BackAndFront\Prototipo\SIRPROME_BackEnd\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\IkerG\OneDrive\Documentos\BackAndFront\Prototipo\SIRPROME_BackEnd\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\IkerG\OneDrive\Documentos\BackAndFront\Prototipo\SIRPROME_BackEnd\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\IkerG\OneDrive\Documentos\BackAndFront\Prototipo\SIRPROME_BackEnd\bin\Debug\net8.0\Snappier.dll
+C:\Users\IkerG\OneDrive\Documentos\BackAndFront\Prototipo\SIRPROME_BackEnd\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\IkerG\OneDrive\Documentos\BackAndFront\Prototipo\SIRPROME_BackEnd\obj\Debug\net8.0\SIRPROME.csproj.AssemblyReference.cache
+C:\Users\IkerG\OneDrive\Documentos\BackAndFront\Prototipo\SIRPROME_BackEnd\obj\Debug\net8.0\SIRPROME.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IkerG\OneDrive\Documentos\BackAndFront\Prototipo\SIRPROME_BackEnd\obj\Debug\net8.0\SIRPROME.AssemblyInfoInputs.cache
+C:\Users\IkerG\OneDrive\Documentos\BackAndFront\Prototipo\SIRPROME_BackEnd\obj\Debug\net8.0\SIRPROME.AssemblyInfo.cs
+C:\Users\IkerG\OneDrive\Documentos\BackAndFront\Prototipo\SIRPROME_BackEnd\obj\Debug\net8.0\SIRPROME.csproj.CoreCompileInputs.cache
+C:\Users\IkerG\OneDrive\Documentos\BackAndFront\Prototipo\SIRPROME_BackEnd\obj\Debug\net8.0\SIRPROME.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\IkerG\OneDrive\Documentos\BackAndFront\Prototipo\SIRPROME_BackEnd\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\IkerG\OneDrive\Documentos\BackAndFront\Prototipo\SIRPROME_BackEnd\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\IkerG\OneDrive\Documentos\BackAndFront\Prototipo\SIRPROME_BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.SIRPROME.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\IkerG\OneDrive\Documentos\BackAndFront\Prototipo\SIRPROME_BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.build.SIRPROME.props
+C:\Users\IkerG\OneDrive\Documentos\BackAndFront\Prototipo\SIRPROME_BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SIRPROME.props
+C:\Users\IkerG\OneDrive\Documentos\BackAndFront\Prototipo\SIRPROME_BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SIRPROME.props
+C:\Users\IkerG\OneDrive\Documentos\BackAndFront\Prototipo\SIRPROME_BackEnd\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\IkerG\OneDrive\Documentos\BackAndFront\Prototipo\SIRPROME_BackEnd\obj\Debug\net8.0\scopedcss\bundle\SIRPROME.styles.css
+C:\Users\IkerG\OneDrive\Documentos\BackAndFront\Prototipo\SIRPROME_BackEnd\obj\Debug\net8.0\SIRPROME.csproj.Up2Date
+C:\Users\IkerG\OneDrive\Documentos\BackAndFront\Prototipo\SIRPROME_BackEnd\obj\Debug\net8.0\SIRPROME.dll
+C:\Users\IkerG\OneDrive\Documentos\BackAndFront\Prototipo\SIRPROME_BackEnd\obj\Debug\net8.0\refint\SIRPROME.dll
+C:\Users\IkerG\OneDrive\Documentos\BackAndFront\Prototipo\SIRPROME_BackEnd\obj\Debug\net8.0\SIRPROME.pdb
+C:\Users\IkerG\OneDrive\Documentos\BackAndFront\Prototipo\SIRPROME_BackEnd\obj\Debug\net8.0\SIRPROME.genruntimeconfig.cache
+C:\Users\IkerG\OneDrive\Documentos\BackAndFront\Prototipo\SIRPROME_BackEnd\obj\Debug\net8.0\ref\SIRPROME.dll
+C:\Users\IkerG\OneDrive\Documentos\BackAndFront\SIRPROME_BackEnd\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\IkerG\OneDrive\Documentos\BackAndFront\SIRPROME_BackEnd\bin\Debug\net8.0\appsettings.json
+C:\Users\IkerG\OneDrive\Documentos\BackAndFront\SIRPROME_BackEnd\bin\Debug\net8.0\SIRPROME.exe
+C:\Users\IkerG\OneDrive\Documentos\BackAndFront\SIRPROME_BackEnd\bin\Debug\net8.0\SIRPROME.deps.json
+C:\Users\IkerG\OneDrive\Documentos\BackAndFront\SIRPROME_BackEnd\bin\Debug\net8.0\SIRPROME.runtimeconfig.json
+C:\Users\IkerG\OneDrive\Documentos\BackAndFront\SIRPROME_BackEnd\bin\Debug\net8.0\SIRPROME.dll
+C:\Users\IkerG\OneDrive\Documentos\BackAndFront\SIRPROME_BackEnd\bin\Debug\net8.0\SIRPROME.pdb
+C:\Users\IkerG\OneDrive\Documentos\BackAndFront\SIRPROME_BackEnd\bin\Debug\net8.0\DnsClient.dll
+C:\Users\IkerG\OneDrive\Documentos\BackAndFront\SIRPROME_BackEnd\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\IkerG\OneDrive\Documentos\BackAndFront\SIRPROME_BackEnd\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\IkerG\OneDrive\Documentos\BackAndFront\SIRPROME_BackEnd\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\IkerG\OneDrive\Documentos\BackAndFront\SIRPROME_BackEnd\bin\Debug\net8.0\Snappier.dll
+C:\Users\IkerG\OneDrive\Documentos\BackAndFront\SIRPROME_BackEnd\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\IkerG\OneDrive\Documentos\BackAndFront\SIRPROME_BackEnd\obj\Debug\net8.0\SIRPROME.csproj.AssemblyReference.cache
+C:\Users\IkerG\OneDrive\Documentos\BackAndFront\SIRPROME_BackEnd\obj\Debug\net8.0\SIRPROME.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IkerG\OneDrive\Documentos\BackAndFront\SIRPROME_BackEnd\obj\Debug\net8.0\SIRPROME.AssemblyInfoInputs.cache
+C:\Users\IkerG\OneDrive\Documentos\BackAndFront\SIRPROME_BackEnd\obj\Debug\net8.0\SIRPROME.AssemblyInfo.cs
+C:\Users\IkerG\OneDrive\Documentos\BackAndFront\SIRPROME_BackEnd\obj\Debug\net8.0\SIRPROME.csproj.CoreCompileInputs.cache
+C:\Users\IkerG\OneDrive\Documentos\BackAndFront\SIRPROME_BackEnd\obj\Debug\net8.0\SIRPROME.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\IkerG\OneDrive\Documentos\BackAndFront\SIRPROME_BackEnd\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\IkerG\OneDrive\Documentos\BackAndFront\SIRPROME_BackEnd\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\IkerG\OneDrive\Documentos\BackAndFront\SIRPROME_BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.SIRPROME.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\IkerG\OneDrive\Documentos\BackAndFront\SIRPROME_BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.build.SIRPROME.props
+C:\Users\IkerG\OneDrive\Documentos\BackAndFront\SIRPROME_BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SIRPROME.props
+C:\Users\IkerG\OneDrive\Documentos\BackAndFront\SIRPROME_BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SIRPROME.props
+C:\Users\IkerG\OneDrive\Documentos\BackAndFront\SIRPROME_BackEnd\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\IkerG\OneDrive\Documentos\BackAndFront\SIRPROME_BackEnd\obj\Debug\net8.0\scopedcss\bundle\SIRPROME.styles.css
+C:\Users\IkerG\OneDrive\Documentos\BackAndFront\SIRPROME_BackEnd\obj\Debug\net8.0\SIRPROME.csproj.Up2Date
+C:\Users\IkerG\OneDrive\Documentos\BackAndFront\SIRPROME_BackEnd\obj\Debug\net8.0\SIRPROME.dll
+C:\Users\IkerG\OneDrive\Documentos\BackAndFront\SIRPROME_BackEnd\obj\Debug\net8.0\refint\SIRPROME.dll
+C:\Users\IkerG\OneDrive\Documentos\BackAndFront\SIRPROME_BackEnd\obj\Debug\net8.0\SIRPROME.pdb
+C:\Users\IkerG\OneDrive\Documentos\BackAndFront\SIRPROME_BackEnd\obj\Debug\net8.0\SIRPROME.genruntimeconfig.cache
+C:\Users\IkerG\OneDrive\Documentos\BackAndFront\SIRPROME_BackEnd\obj\Debug\net8.0\ref\SIRPROME.dll
+C:\Users\IkerG\OneDrive\Documentos\Sirprome V3\SIRPROME_BackEnd\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\IkerG\OneDrive\Documentos\Sirprome V3\SIRPROME_BackEnd\bin\Debug\net8.0\appsettings.json
+C:\Users\IkerG\OneDrive\Documentos\Sirprome V3\SIRPROME_BackEnd\bin\Debug\net8.0\SIRPROME.exe
+C:\Users\IkerG\OneDrive\Documentos\Sirprome V3\SIRPROME_BackEnd\bin\Debug\net8.0\SIRPROME.deps.json
+C:\Users\IkerG\OneDrive\Documentos\Sirprome V3\SIRPROME_BackEnd\bin\Debug\net8.0\SIRPROME.runtimeconfig.json
+C:\Users\IkerG\OneDrive\Documentos\Sirprome V3\SIRPROME_BackEnd\bin\Debug\net8.0\SIRPROME.dll
+C:\Users\IkerG\OneDrive\Documentos\Sirprome V3\SIRPROME_BackEnd\bin\Debug\net8.0\SIRPROME.pdb
+C:\Users\IkerG\OneDrive\Documentos\Sirprome V3\SIRPROME_BackEnd\bin\Debug\net8.0\DnsClient.dll
+C:\Users\IkerG\OneDrive\Documentos\Sirprome V3\SIRPROME_BackEnd\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\IkerG\OneDrive\Documentos\Sirprome V3\SIRPROME_BackEnd\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\IkerG\OneDrive\Documentos\Sirprome V3\SIRPROME_BackEnd\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\IkerG\OneDrive\Documentos\Sirprome V3\SIRPROME_BackEnd\bin\Debug\net8.0\Snappier.dll
+C:\Users\IkerG\OneDrive\Documentos\Sirprome V3\SIRPROME_BackEnd\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\IkerG\OneDrive\Documentos\Sirprome V3\SIRPROME_BackEnd\obj\Debug\net8.0\SIRPROME.csproj.AssemblyReference.cache
+C:\Users\IkerG\OneDrive\Documentos\Sirprome V3\SIRPROME_BackEnd\obj\Debug\net8.0\SIRPROME.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IkerG\OneDrive\Documentos\Sirprome V3\SIRPROME_BackEnd\obj\Debug\net8.0\SIRPROME.AssemblyInfoInputs.cache
+C:\Users\IkerG\OneDrive\Documentos\Sirprome V3\SIRPROME_BackEnd\obj\Debug\net8.0\SIRPROME.AssemblyInfo.cs
+C:\Users\IkerG\OneDrive\Documentos\Sirprome V3\SIRPROME_BackEnd\obj\Debug\net8.0\SIRPROME.csproj.CoreCompileInputs.cache
+C:\Users\IkerG\OneDrive\Documentos\Sirprome V3\SIRPROME_BackEnd\obj\Debug\net8.0\SIRPROME.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\IkerG\OneDrive\Documentos\Sirprome V3\SIRPROME_BackEnd\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\IkerG\OneDrive\Documentos\Sirprome V3\SIRPROME_BackEnd\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\IkerG\OneDrive\Documentos\Sirprome V3\SIRPROME_BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.SIRPROME.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\IkerG\OneDrive\Documentos\Sirprome V3\SIRPROME_BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.build.SIRPROME.props
+C:\Users\IkerG\OneDrive\Documentos\Sirprome V3\SIRPROME_BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SIRPROME.props
+C:\Users\IkerG\OneDrive\Documentos\Sirprome V3\SIRPROME_BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SIRPROME.props
+C:\Users\IkerG\OneDrive\Documentos\Sirprome V3\SIRPROME_BackEnd\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\IkerG\OneDrive\Documentos\Sirprome V3\SIRPROME_BackEnd\obj\Debug\net8.0\scopedcss\bundle\SIRPROME.styles.css
+C:\Users\IkerG\OneDrive\Documentos\Sirprome V3\SIRPROME_BackEnd\obj\Debug\net8.0\SIRPROME.csproj.Up2Date
+C:\Users\IkerG\OneDrive\Documentos\Sirprome V3\SIRPROME_BackEnd\obj\Debug\net8.0\SIRPROME.dll
+C:\Users\IkerG\OneDrive\Documentos\Sirprome V3\SIRPROME_BackEnd\obj\Debug\net8.0\refint\SIRPROME.dll
+C:\Users\IkerG\OneDrive\Documentos\Sirprome V3\SIRPROME_BackEnd\obj\Debug\net8.0\SIRPROME.pdb
+C:\Users\IkerG\OneDrive\Documentos\Sirprome V3\SIRPROME_BackEnd\obj\Debug\net8.0\SIRPROME.genruntimeconfig.cache
+C:\Users\IkerG\OneDrive\Documentos\Sirprome V3\SIRPROME_BackEnd\obj\Debug\net8.0\ref\SIRPROME.dll
+C:\Users\lenov\Desktop\Sirprome V3.2\Sirprome V3.2\SIRPROME_BackEnd\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\lenov\Desktop\Sirprome V3.2\Sirprome V3.2\SIRPROME_BackEnd\bin\Debug\net8.0\appsettings.json
+C:\Users\lenov\Desktop\Sirprome V3.2\Sirprome V3.2\SIRPROME_BackEnd\bin\Debug\net8.0\SIRPROME.staticwebassets.endpoints.json
+C:\Users\lenov\Desktop\Sirprome V3.2\Sirprome V3.2\SIRPROME_BackEnd\bin\Debug\net8.0\SIRPROME.exe
+C:\Users\lenov\Desktop\Sirprome V3.2\Sirprome V3.2\SIRPROME_BackEnd\bin\Debug\net8.0\SIRPROME.deps.json
+C:\Users\lenov\Desktop\Sirprome V3.2\Sirprome V3.2\SIRPROME_BackEnd\bin\Debug\net8.0\SIRPROME.runtimeconfig.json
+C:\Users\lenov\Desktop\Sirprome V3.2\Sirprome V3.2\SIRPROME_BackEnd\bin\Debug\net8.0\SIRPROME.dll
+C:\Users\lenov\Desktop\Sirprome V3.2\Sirprome V3.2\SIRPROME_BackEnd\bin\Debug\net8.0\SIRPROME.pdb
+C:\Users\lenov\Desktop\Sirprome V3.2\Sirprome V3.2\SIRPROME_BackEnd\bin\Debug\net8.0\DnsClient.dll
+C:\Users\lenov\Desktop\Sirprome V3.2\Sirprome V3.2\SIRPROME_BackEnd\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\lenov\Desktop\Sirprome V3.2\Sirprome V3.2\SIRPROME_BackEnd\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\lenov\Desktop\Sirprome V3.2\Sirprome V3.2\SIRPROME_BackEnd\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\lenov\Desktop\Sirprome V3.2\Sirprome V3.2\SIRPROME_BackEnd\bin\Debug\net8.0\Snappier.dll
+C:\Users\lenov\Desktop\Sirprome V3.2\Sirprome V3.2\SIRPROME_BackEnd\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\lenov\Desktop\Sirprome V3.2\Sirprome V3.2\SIRPROME_BackEnd\obj\Debug\net8.0\SIRPROME.csproj.AssemblyReference.cache
+C:\Users\lenov\Desktop\Sirprome V3.2\Sirprome V3.2\SIRPROME_BackEnd\obj\Debug\net8.0\SIRPROME.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenov\Desktop\Sirprome V3.2\Sirprome V3.2\SIRPROME_BackEnd\obj\Debug\net8.0\SIRPROME.AssemblyInfoInputs.cache
+C:\Users\lenov\Desktop\Sirprome V3.2\Sirprome V3.2\SIRPROME_BackEnd\obj\Debug\net8.0\SIRPROME.AssemblyInfo.cs
+C:\Users\lenov\Desktop\Sirprome V3.2\Sirprome V3.2\SIRPROME_BackEnd\obj\Debug\net8.0\SIRPROME.csproj.CoreCompileInputs.cache
+C:\Users\lenov\Desktop\Sirprome V3.2\Sirprome V3.2\SIRPROME_BackEnd\obj\Debug\net8.0\SIRPROME.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lenov\Desktop\Sirprome V3.2\Sirprome V3.2\SIRPROME_BackEnd\obj\Debug\net8.0\scopedcss\bundle\SIRPROME.styles.css
+C:\Users\lenov\Desktop\Sirprome V3.2\Sirprome V3.2\SIRPROME_BackEnd\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\lenov\Desktop\Sirprome V3.2\Sirprome V3.2\SIRPROME_BackEnd\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\lenov\Desktop\Sirprome V3.2\Sirprome V3.2\SIRPROME_BackEnd\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\lenov\Desktop\Sirprome V3.2\Sirprome V3.2\SIRPROME_BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.SIRPROME.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lenov\Desktop\Sirprome V3.2\Sirprome V3.2\SIRPROME_BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.SIRPROME.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\lenov\Desktop\Sirprome V3.2\Sirprome V3.2\SIRPROME_BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.build.SIRPROME.props
+C:\Users\lenov\Desktop\Sirprome V3.2\Sirprome V3.2\SIRPROME_BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SIRPROME.props
+C:\Users\lenov\Desktop\Sirprome V3.2\Sirprome V3.2\SIRPROME_BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SIRPROME.props
+C:\Users\lenov\Desktop\Sirprome V3.2\Sirprome V3.2\SIRPROME_BackEnd\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\lenov\Desktop\Sirprome V3.2\Sirprome V3.2\SIRPROME_BackEnd\obj\Debug\net8.0\SIRPROME.csproj.Up2Date
+C:\Users\lenov\Desktop\Sirprome V3.2\Sirprome V3.2\SIRPROME_BackEnd\obj\Debug\net8.0\SIRPROME.dll
+C:\Users\lenov\Desktop\Sirprome V3.2\Sirprome V3.2\SIRPROME_BackEnd\obj\Debug\net8.0\refint\SIRPROME.dll
+C:\Users\lenov\Desktop\Sirprome V3.2\Sirprome V3.2\SIRPROME_BackEnd\obj\Debug\net8.0\SIRPROME.pdb
+C:\Users\lenov\Desktop\Sirprome V3.2\Sirprome V3.2\SIRPROME_BackEnd\obj\Debug\net8.0\SIRPROME.genruntimeconfig.cache
+C:\Users\lenov\Desktop\Sirprome V3.2\Sirprome V3.2\SIRPROME_BackEnd\obj\Debug\net8.0\ref\SIRPROME.dll
