@@ -1,4 +1,6 @@
 using MongoDB.Bson;
+using System.Collections.Generic;
+
 public class Registro {
     public ObjectId Id;
     public string? IdUsuario { get; set; } = string.Empty;
@@ -6,6 +8,8 @@ public class Registro {
     public string? Correo { get; set; } = string.Empty;
     public string? Contraseña { get; set; } = string.Empty;
     public string? Rol { get; set; } = string.Empty;
+
+    public List<string> LogrosDesbloqueados { get; set; } = new List<string>();
 }
 
 public class Inicio {

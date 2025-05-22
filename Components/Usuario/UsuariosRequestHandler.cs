@@ -5,16 +5,17 @@ using System.Net;
 using System.Net.Mail;
 
 public static class UsuarioRequestHandlers {
-    public static IResult Registrar(Registro datos) {
-        if(string.IsNullOrWhiteSpace(datos.Nombre)) {
+    public static IResult Registrar(Registro datos, LogrosService logrosService) {
+        if (string.IsNullOrWhiteSpace(datos.Nombre)) {
             return Results.BadRequest("El nombre es necesario.");
         }
-        if(string.IsNullOrWhiteSpace(datos.Correo)) {
+        if (string.IsNullOrWhiteSpace(datos.Correo)) {
             return Results.BadRequest("El correo es necesario.");
         }
-        if(string.IsNullOrWhiteSpace(datos.Contraseña)) {
+        if (string.IsNullOrWhiteSpace(datos.Contraseña)) {
             return Results.BadRequest("Es necesaria una contraseña.");
         }
+
         datos.IdUsuario = Guid.NewGuid().ToString().ToLower();
 
         BaseDatos bd = new BaseDatos();
@@ -23,16 +24,35 @@ public static class UsuarioRequestHandlers {
             throw new Exception("No existe la colección Usuarios.");
         }
 
-        FilterDefinitionBuilder<Registro> filterBuilder = new FilterDefinitionBuilder<Registro>();
-        var filter = filterBuilder.Eq(x => x.Correo, datos.Correo);
-
+        var filter = Builders<Registro>.Filter.Eq(x => x.Correo, datos.Correo);
         Registro? usuarioExistente = coleccion.Find(filter).FirstOrDefault();
+        /*
         if (usuarioExistente != null) {
-            return Results.BadRequest($"Ya existe un usuario con el correo electronico {datos.Correo}");
+            return Results.BadRequest($"Ya existe un usuario con el correo electrónico {datos.Correo}");
         }
-        
+*/
+        // Crear el logro "SIRPROME" si no existe
+        logrosService.CrearLogroSiNoExiste(new Logro {
+            Id = "SIRPROME",
+            Nombre = "Un cambio",
+            Descripcion = "Registrarse por primera vez a SIRPROME"
+        });
+
+        // Asignar el logro al usuario
+        datos.LogrosDesbloqueados = new List<string> { "SIRPROME" };
+
+        // Insertar el usuario en la base de datos
         coleccion.InsertOne(datos);
-        return Results.Ok(new {id = datos.IdUsuario, mesnsaje = "Usuario registrado"});
+
+        return Results.Ok(new {
+            id = datos.IdUsuario,
+            mensaje = "Usuario registrado correctamente.",
+            logroDesbloqueado = new {
+                Id = "SIRPROME",
+                Nombre = "Un cambio",
+                Descripcion = "Registrarse por primera vez a SIRPROME"
+            }
+        });
     }
     public static IResult InicioSesion(Inicio inicio) {
         if (string.IsNullOrWhiteSpace(inicio.Correo)) {

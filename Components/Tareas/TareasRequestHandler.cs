@@ -240,76 +240,47 @@ public static class TareasRequestHandler {
         return Results.Ok("Tarea eliminada.");
     }
 
-    public static IResult Subir(Subir subir, string IdUsuario, string IdGrupo, string IdTarea) {
-        var Usuario = IdUsuario.ToLower();
-        var Grupo = IdGrupo.ToLower();
-        var Tarea = IdTarea.ToLower();
-        if (string.IsNullOrWhiteSpace(Usuario)) {
-            return Results.BadRequest("Introduce el Id del estudiante.");
-        }
-        if (string.IsNullOrWhiteSpace(Grupo)) {
-            return Results.BadRequest("Introduce el Id del grupo.");
-        }
-        if (string.IsNullOrWhiteSpace(Tarea)) {
-            return Results.BadRequest("Introduce el Id de la tarea.");
-        }
-        if (string.IsNullOrWhiteSpace(subir.Evidencia)) {
-            return Results.BadRequest("Introduce la evidencia.");
-        }
+    public static async Task<IResult> Subir(HttpRequest request, string IdUsuario, string IdGrupo, string IdTarea, BaseDatos bd) {
+        try {
+            // Leer el cuerpo de la solicitud
+            var body = await request.ReadFromJsonAsync<SubirEvidenciaRequest>();
+            if (body == null || string.IsNullOrWhiteSpace(body.Evidencia)) {
+                return Results.BadRequest("La evidencia no puede estar vacía.");
+            }
 
-        BaseDatos bd = new BaseDatos();
-        var colectionUsers = bd.ObtenerColeccion<Registro>("Usuarios");
-        if (colectionUsers == null) {
-            throw new Exception("No existe la colección Usuarios.");
-        }
+            // Lógica para procesar la subida
+            var tareasAlumnosCollection = bd.ObtenerColeccion<TareasAlumnos>("TareasAlumnos");
 
-        var colectionGroup = bd.ObtenerColeccion<Crear>("Grupos");
-        if (colectionGroup == null) {
-            throw new Exception("No existe la colección Grupos.");
-        }
+            var filtro = Builders<TareasAlumnos>.Filter.And(
+                Builders<TareasAlumnos>.Filter.Eq(t => t.IdTarea, IdTarea),
+                Builders<TareasAlumnos>.Filter.Eq(t => t.IdGrupo, IdGrupo),
+                Builders<TareasAlumnos>.Filter.Eq(t => t.IdUsuario, IdUsuario)
+            );
+            var tareaAlumno = tareasAlumnosCollection.Find(filtro).FirstOrDefault();
+            /*
+            if (tareaAlumno != null) {
+                return Results.BadRequest("La tarea ya fue subida.");
+            }
+            */
+            var nuevaTareaAlumno = new TareasAlumnos {
+                IdTarea = IdTarea,
+                IdUsuario = IdUsuario,
+                IdGrupo = IdGrupo,
+                Titulo = "Título de ejemplo",
+                Descripcion = "Descripción de ejemplo",
+                Calificacion = 0,
+                ValorMax = 100,
+                Evidencia = body.Evidencia
+            };
 
-        var colectionWorks = bd.ObtenerColeccion<Tareas>("Tareas");
-        if (colectionGroup == null) {
-            throw new Exception("No existe la colección Tareas.");
-        }
+            tareasAlumnosCollection.InsertOne(nuevaTareaAlumno);
 
-        var colectionTA = bd.ObtenerColeccion<TareasAlumnos>("TareasAlumnos");
-        if (colectionTA == null){
-            throw new Exception("No existe la colección TareasAlumnos.");
+            return Results.Ok(new {
+                mensaje = "Tarea subida correctamente."
+            });
+        } catch (Exception ex) {
+            return Results.BadRequest(new { mensaje = ex.Message });
         }
-
-        FilterDefinitionBuilder<Registro> filterBuilder1 = new FilterDefinitionBuilder<Registro>();
-        var filter1 = filterBuilder1.Eq(x => x.IdUsuario, Usuario);
-        Registro? usuarioExistente = colectionUsers.Find(filter1).FirstOrDefault();
-        if (usuarioExistente == null) {
-            return Results.BadRequest("No existe el usuario.");
-        }
-        if (usuarioExistente.Rol != "estudiante") {
-            return Results.BadRequest("El usuario debe de ser un estudiante.");
-        }
-        
-        FilterDefinitionBuilder<Crear> filterBuilder2 = new FilterDefinitionBuilder<Crear>();
-        var filter2 = filterBuilder2.Eq(x => x.IdGrupo, Grupo);
-        Crear? grupoExistente = colectionGroup.Find(filter2).FirstOrDefault();
-        if (grupoExistente == null) {
-            return Results.BadRequest("No existe el grupo.");
-        }
-
-        FilterDefinitionBuilder<Tareas> filterBuilder3 = new FilterDefinitionBuilder<Tareas>();
-        var filter3 = filterBuilder3.Eq(x => x.IdTarea, Tarea);
-        Tareas? tareaExistente = colectionWorks.Find(filter3).FirstOrDefault();
-        if (tareaExistente == null) {
-            return Results.BadRequest("No existe la tarea.");
-        }
-        if (tareaExistente.IdGrupo != Grupo) {
-            return Results.BadRequest("No existe la tarea en este grupo.");
-        }
-        FilterDefinitionBuilder<TareasAlumnos> filterBuilder4 = new FilterDefinitionBuilder<TareasAlumnos>();
-        var filter4 = filterBuilder4.Eq(x => x.IdUsuario, IdUsuario);
-        var update = Builders<TareasAlumnos>.Update.Set(x => x.Evidencia, subir.Evidencia);
-        colectionTA.UpdateOne(filter4, update);
-
-        return Results.Ok("Tarea subida.");
     }
    
    public static IResult Calificar(Calificar cal, string IdProfesor, string IdGrupo, string IdTarea, string IdUsuario){
@@ -396,5 +367,10 @@ public static class TareasRequestHandler {
         colectionTA.UpdateOne(filter4, update);
         
         return Results.Ok("Tarea calificacda.");
+    }
+
+    public static void Subir(TareasAlumnos nuevaTareaAlumno, IMongoCollection<TareasAlumnos> tareasAlumnosCollection) {
+        // Insertar la nueva tarea en la colección
+        tareasAlumnosCollection.InsertOne(nuevaTareaAlumno);
     }
 }

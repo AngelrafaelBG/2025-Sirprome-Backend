@@ -334,3 +334,6 @@ C:\Users\lenov\Desktop\Sirprome V3.2\Sirprome V3.2\SIRPROME_BackEnd\obj\Debug\ne
 C:\Users\lenov\Desktop\Sirprome V3.2\Sirprome V3.2\SIRPROME_BackEnd\obj\Debug\net8.0\SIRPROME.pdb
 C:\Users\lenov\Desktop\Sirprome V3.2\Sirprome V3.2\SIRPROME_BackEnd\obj\Debug\net8.0\SIRPROME.genruntimeconfig.cache
 C:\Users\lenov\Desktop\Sirprome V3.2\Sirprome V3.2\SIRPROME_BackEnd\obj\Debug\net8.0\ref\SIRPROME.dll
+C:\Users\lenov\Desktop\Sirprome V3.2\Sirprome V3.2\SIRPROME_BackEnd\obj\Debug\net8.0\SIRPROME.sourcelink.json
+C:\Users\lenov\Desktop\Sirprome V3.2\Sirprome V3.2\SIRPROME_BackEnd\bin\Debug\net8.0\package-lock.json
+C:\Users\lenov\Desktop\Sirprome V3.2\Sirprome V3.2\SIRPROME_BackEnd\bin\Debug\net8.0\package.json
